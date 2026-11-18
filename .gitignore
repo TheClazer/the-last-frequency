@@ -1,0 +1,15 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+logs/
+UserSettings/
+MemoryCaptures/
+*.apk
+*.mp4
+__pycache__/
+.env
+*.keystore
+*.jks
