@@ -56,3 +56,7 @@ Songs generated with ElevenLabs Music. Jungle meshes generated with Tripo, then 
 ---
 
 *The world went quiet. You are its last frequency.*
+
+---
+
+**Privacy policy:** https://theclazer.github.io/the-last-frequency/privacy.html · **Contact:** Rayyan Shaikh, therayyn16@gmail.com
